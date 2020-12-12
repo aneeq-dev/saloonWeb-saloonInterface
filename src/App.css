@@ -24,8 +24,15 @@
   color: white;
 }
 
+
+
 .App-link {
   color: #61dafb;
+}
+
+
+.sideMenuLinkColor{
+  color:'white';   
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +43,4 @@
     transform: rotate(360deg);
   }
 }
+

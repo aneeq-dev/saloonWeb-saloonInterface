@@ -11,3 +11,52 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.sideMenuLinkColor{
+  color:'white';   
+}
+.space {
+  margin-left: auto;
+}
+
+.space2 {
+  margin: "10%";
+}
+
+.padding {
+  margin-right:50%
+}
+
+.topContainer{
+  display: flex;
+  flex-direction: row;
+}
+
+.sizeofPic{
+   height:12em;
+}
+.sizeofPic2{
+  height:20em;
+  
+}
+.con {
+  margin-left: -10.5%;
+  size: 100vw;
+}
+
+.widthless {
+  
+  background-color: black}
+
+.wider {
+  width: 150%;
+}
+
+.nn {
+  position: sticky;
+}
+
+
+.title {
+  margin-bottom: 0px;
+}
